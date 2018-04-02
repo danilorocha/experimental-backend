@@ -1,0 +1,43 @@
+.dashboard-footer {
+	height: 66px;
+	font-size: 18px;
+	padding-top: 18px;
+}
+
+.btn-margin-left {
+	margin-left: 5px;
+}
+
+.table td {
+	padding: 0.50rem;
+	vertical-align:inherit;
+}
+
+th.tbl-action-padding {
+	padding-right: 24px;
+}
+
+.vl {
+  border-left: 1px solid gray;
+  margin-left: 12px;
+  margin-right: 12px;
+  height: 32px;
+}
+
+.card-dashboard {
+	margin-bottom: 10px;
+}
+
+.card-dashboard .card-body {
+	padding: 15px;
+  text-align: center;
+}
+
+.card-dashboard .card-body .card-text{
+	font-size: 30px;
+  font-weight: bold;
+}
+
+.card-dashboard .card-body .card-title{
+	font-size: 13px;
+}
